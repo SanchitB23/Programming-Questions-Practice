@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/CheckArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_11ArmstrongInARange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_12FiboUptoN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_13BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_14DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_9StringPalindrome.java" afterDir="false" />
+    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="New Programs Added">
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_19SumOfPrimeInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_21StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_1FullPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_2FullInvertedPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_3HalfPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_4HalfInvertedPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullHollowPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullInvertedHollowPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_6HalfHollowPyramidWithStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_7HalfHollowInvertedPyramidWithStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/FiboPlusPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/FiboPlusPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/Q1_7CheckStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_7CheckStrongNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +34,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_13BinaryToDecimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_14DecimalToBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -82,19 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/BinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/company/July9th/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/July9th/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/company/July9th/BinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/company/self/StackCreate.java" />
-        <option value="$PROJECT_DIR$/src/com/company/self/BTP1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/self/LL.java" />
-        <option value="$PROJECT_DIR$/src/com/company/main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/tcsWorkshop/factorial.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CodingAssignmentSolutions/Q7.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/FiboPlusPrime.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/TwoDifferentGPs.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/Factorial.java" />
         <option value="$PROJECT_DIR$/src/com/company/tcsWorkshop/ArOfCircle.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CalcHCF.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CalcLCM.java" />
@@ -123,7 +96,6 @@
         <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_7CheckStrongNumber.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CodingQues/Q1_7CheckStrongNumber.java" />
         <option value="$PROJECT_DIR$/src/company/CodingAssignmentSolutions/Q7.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_7CheckStrongNumber.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_9StringPalindrome.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java" />
@@ -133,6 +105,20 @@
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_12FiboUptoN.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_14DecimalToBinary.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_13BinaryToDecimal.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_19SumOfPrimeInARange.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_21StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22PyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_1FullPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_2FullInvertedPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_3HalfPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullInvertedHollowPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullHollowPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_4HalfPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_6HalfHollowPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_23_7HalfHollowInvertedPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_4HalfInvertedPyramidWithStars.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -147,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,36 +142,17 @@
               <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingQues" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -213,9 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1_14DecimalToBinary">
-    <configuration name="FiboPlusPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.FiboPlusPrime" />
+  <component name="RunManager" selected="Application.Q1_22_4HalfInvertedPyramidWithStars">
+    <configuration name="Q1_22_3HalfPyramidWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_22_3HalfPyramidWithStars" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_11ArmstrongInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_11ArmstrongInARange" />
+    <configuration name="Q1_22_4HalfInvertedPyramidWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_22_4HalfInvertedPyramidWithStars" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -240,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_12FiboUptoN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_12FiboUptoN" />
+    <configuration name="Q1_23_5FullHollowPyramidWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_23_5FullHollowPyramidWithStars" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -253,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_13BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_13BinaryToDecimal" />
+    <configuration name="Q1_23_5FullInvertedHollowPyramidWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_23_5FullInvertedHollowPyramidWithStars" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -266,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_14DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_14DecimalToBinary" />
+    <configuration name="Q1_23_6HalfHollowPyramidWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_23_6HalfHollowPyramidWithStars" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -281,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1_14DecimalToBinary" />
-        <item itemvalue="Application.Q1_13BinaryToDecimal" />
-        <item itemvalue="Application.Q1_12FiboUptoN" />
-        <item itemvalue="Application.FiboPlusPrime" />
-        <item itemvalue="Application.Q1_11ArmstrongInARange" />
+        <item itemvalue="Application.Q1_22_4HalfInvertedPyramidWithStars" />
+        <item itemvalue="Application.Q1_23_6HalfHollowPyramidWithStars" />
+        <item itemvalue="Application.Q1_22_3HalfPyramidWithStars" />
+        <item itemvalue="Application.Q1_23_5FullInvertedHollowPyramidWithStars" />
+        <item itemvalue="Application.Q1_23_5FullHollowPyramidWithStars" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +290,8 @@
       <workItem from="1563508602636" duration="7532000" />
       <workItem from="1563534337343" duration="2317000" />
       <workItem from="1563626665565" duration="2134000" />
-      <workItem from="1563629638740" duration="10614000" />
+      <workItem from="1563629638740" duration="11686000" />
+      <workItem from="1563713744206" duration="6787000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -330,11 +300,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563629866083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Programs Added">
+      <created>1563642738186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563642738186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70975000" />
+    <option name="totallyTimeSpent" value="78834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,16 +326,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.22617246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50214595" side_tool="true" weight="0.22617246" />
+      <window_info anchor="bottom" id="Duplicates" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.23731588" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3878887" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39443535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,6 +360,41 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.22919819" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50214595" side_tool="true" weight="0.22617246" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49848714" weight="0.3878887" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49848714" weight="0.39443535" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.24386252" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -389,7 +402,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="New Programs Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Programs Added" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -401,41 +415,6 @@
     <SUITE FILE_PATH="coverage/TempProject$Main.ic" NAME="Main Coverage Results" MODIFIED="1555844686356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/company/tcsWorkshop/LinkedNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/tcsWorkshop/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="30" column="62" lean-forward="true" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/company/tcsWorkshop/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/company/self/LL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -615,13 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/company/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -731,19 +703,96 @@
     <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_13BinaryToDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_14DecimalToBinary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_19SumOfPrimeInARange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_21StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_22_1FullPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_22_2FullInvertedPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullInvertedHollowPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_22_3HalfPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_23_5FullHollowPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_23_7HalfHollowInvertedPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_23_6HalfHollowPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_22_4HalfInvertedPyramidWithStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
