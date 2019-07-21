@@ -2,7 +2,7 @@ package practice.CodingQues;
 
 import java.util.Scanner;
 
-public class Q1_23_5FullHollowPyramidWithStars {
+public class Q1_22_5FullHollowPyramidWithStars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Number");

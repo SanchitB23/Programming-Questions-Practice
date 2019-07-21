@@ -2,7 +2,7 @@ package practice.CodingQues;
 
 import java.util.Scanner;
 
-public class Q1_23_5FullInvertedHollowPyramidWithStars {
+public class Q1_22_5FullInvertedHollowPyramidWithStars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Number");
@@ -12,7 +12,7 @@ public class Q1_23_5FullInvertedHollowPyramidWithStars {
             for (int k = 0; k <= size - i; k++) {
                 System.out.print(" ");
             }
-            Q1_23_5FullHollowPyramidWithStars.hollowStarsView(size, i);
+            Q1_22_5FullHollowPyramidWithStars.hollowStarsView(size, i);
         }
     }
 }

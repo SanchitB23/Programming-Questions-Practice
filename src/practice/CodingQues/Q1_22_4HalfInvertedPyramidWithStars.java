@@ -9,7 +9,7 @@ public class Q1_22_4HalfInvertedPyramidWithStars {
         int size = scanner.nextInt();
 
         for (int i = size; i >= 1; i--) {
-            Q1_23_5FullHollowPyramidWithStars.hollowStarsView(size, i);
+            Q1_22_5FullHollowPyramidWithStars.hollowStarsView(size, i);
         }
     }
 }
