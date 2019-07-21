@@ -7,6 +7,12 @@ public class Q1_22_1FullPyramidWithStars {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Number");
         int size = scanner.nextInt();
+
+        Q1_22_1FullPyramidWithStars.FullPyramid(size);
+
+    }
+
+    static void FullPyramid(int size) {
         for (int i = 1; i <= size; i++) {
             for (int k = size - i; k >= 0; k--) {
                 System.out.print(" ");

@@ -8,12 +8,17 @@ public class Q1_22_2FullInvertedPyramidWithStars {
         System.out.println("Enter Number");
         int size = scanner.nextInt();
 
-        for (int i = size; i >= 1; i--) {
+        FullInvertedPyramid(size, false);
+    }
+
+    static void FullInvertedPyramid(int size, boolean diamond) {
+        int x = diamond ? 1 : 0;
+        for (int i = size - x; i >= 1; i--) {
             for (int k = 0; k <= size - i; k++) {
                 System.out.print(" ");
             }
             for (int j = 1; j <= i; j++) {
-                System.out.print("x ");
+                System.out.print("* ");
             }
             System.out.println();
         }
