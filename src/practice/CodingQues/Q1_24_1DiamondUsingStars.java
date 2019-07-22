@@ -2,7 +2,6 @@ package practice.CodingQues;
 
 import java.util.Scanner;
 
-@SuppressWarnings("Duplicates")
 public class Q1_24_1DiamondUsingStars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
