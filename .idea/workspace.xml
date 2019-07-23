@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q4_2SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q4_4WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_1PatternPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_2PrintTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_3AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_4GP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_5ClosestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_6SumOfDigitsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q5_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Coding Questions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Coding Questions.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/FiboPlusPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q3_1FiboPlusPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/TwoDifferentGPs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q3_2TwoDifferentGPs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +30,29 @@
     <favorites_list name="CodingPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_6SumOfDigitsPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,14 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q2_5NumSeriesWTwist.java" />
-        <option value="$PROJECT_DIR$/src/com/temp.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q2_6StringsWTwist.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_5CheckPrime.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_6PrimeInARange.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_4CalcHCF.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_4_2CalcLCM.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/Q1_1Factorial.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/TwoDifferentGPs.java" />
         <option value="$PROJECT_DIR$/src/com/practice/CodingQuesOneNote/FiboPlusPrime.java" />
@@ -83,7 +99,6 @@
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_14DecimalToBinary.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_13BinaryToDecimal.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_19SumOfPrimeInARange.java" />
-        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_21StringReverse.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22PyramidWithStars.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_22_3HalfPyramidWithStars.java" />
@@ -108,13 +123,23 @@
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q4_2SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q4_4WordCount.java" />
         <option value="$PROJECT_DIR$/src/practice/CodingQues/Q4_5.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_1PatternPrint.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_2PrintTable.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_3AP.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_4GP.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_5ClosestNumber.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_6SumOfDigitsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/company/tcsWorkshop/LinkedNode.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java" />
+        <option value="$PROJECT_DIR$/src/practice/CodingQues/Q5_7.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,6 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,8 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,9 +222,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q4_5">
-    <configuration name="Q1_25_1DiamondUsingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_25_1DiamondUsingNumbers" />
+  <component name="RunManager" selected="Application.Q5_9">
+    <configuration name="Q1_20NumReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_20NumReverse" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -211,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_26FindSecondSmallestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_26FindSecondSmallestNum" />
+    <configuration name="Q5_4GP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q5_4GP" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_2SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q4_2SelectionSort" />
+    <configuration name="Q5_5ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q5_5ClosestNumber" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -237,8 +262,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_4WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q4_4WordCount" />
+    <configuration name="Q5_6SumOfDigitsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q5_6SumOfDigitsPalindrome" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +275,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q4_5" />
+    <configuration name="Q5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q5_9" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -265,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q4_5" />
-        <item itemvalue="Application.Q4_4WordCount" />
-        <item itemvalue="Application.Q4_2SelectionSort" />
-        <item itemvalue="Application.Q1_26FindSecondSmallestNum" />
-        <item itemvalue="Application.Q1_25_1DiamondUsingNumbers" />
+        <item itemvalue="Application.Q5_9" />
+        <item itemvalue="Application.Q1_20NumReverse" />
+        <item itemvalue="Application.Q5_6SumOfDigitsPalindrome" />
+        <item itemvalue="Application.Q5_5ClosestNumber" />
+        <item itemvalue="Application.Q5_4GP" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +334,8 @@
       <workItem from="1563713744206" duration="9454000" />
       <workItem from="1563784755681" duration="4109000" />
       <workItem from="1563798912567" duration="600000" />
-      <workItem from="1563857282053" duration="2069000" />
+      <workItem from="1563857282053" duration="6350000" />
+      <workItem from="1563864868504" duration="6539000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -353,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563787776651</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added New Programs">
+      <created>1563859383090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563859383090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88279000" />
+    <option name="totallyTimeSpent" value="99099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,8 +403,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.24054463" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.18078668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -380,8 +414,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50214595" side_tool="true" weight="0.22617246" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3878887" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39443535" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.28477904" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.6661211" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
@@ -490,7 +524,8 @@
     <MESSAGE value="File Numbering Corrected" />
     <MESSAGE value="New Programs Added" />
     <MESSAGE value="Section 1 and 2 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 1 and 2 Completed" />
+    <MESSAGE value="Added New Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added New Programs" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -502,68 +537,6 @@
     <SUITE FILE_PATH="coverage/TempProject$Main.ic" NAME="Main Coverage Results" MODIFIED="1555844686356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/company/tcsWorkshop/Q2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/TCS_CollegeQues3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#922#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_2ArOfCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_4_2CalcLCM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_4CalcHCF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_5CheckPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_6PrimeInARange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q2_2PrimeWTwist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q2_3NumSeriesWTwist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -630,16 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/CheckArmstrongNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -692,13 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -870,6 +826,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_1PatternPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_3AP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_2PrintTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_4GP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#425#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_5ClosestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_8NumPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/tcsWorkshop/LinkedNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q1_20NumReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_6SumOfDigitsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/CodingQues/Q5_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>

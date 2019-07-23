@@ -17,7 +17,7 @@ public class Q1_8NumPalindrome {
         System.out.println(palindrome(digits));
     }
 
-    private static boolean palindrome(ArrayList<Integer> digits) {
+    static boolean palindrome(ArrayList<Integer> digits) {
         for (int i = 0; i < digits.size() / 2; i++) {
             if (!digits.get(i).equals(digits.get(digits.size() - i - 1)))
                 return false;
