@@ -8,7 +8,7 @@ package practice.CodingQues;
 
 import java.util.Scanner;
 
-public class TwoDifferentGPs {
+public class Q3_2TwoDifferentGPs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Number");

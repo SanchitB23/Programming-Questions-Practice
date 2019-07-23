@@ -22,7 +22,7 @@ package practice.CodingQues;
 
 import java.util.Scanner;
 
-public class FiboPlusPrime {
+public class Q3_1FiboPlusPrime {
 
 
     public static void main(String[] args) {
