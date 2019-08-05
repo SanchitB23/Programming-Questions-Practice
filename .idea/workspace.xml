@@ -1,12 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/FloydsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/SumOfSquaresOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Temp.java" afterDir="false" />
+    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="Added New Programs">
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/CodingAssignmentSolutions/Q7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/BTP1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/LL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/NodeLl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/StackCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/self/StackWithArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/BinaryTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/calssmane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/CheckArmstrongNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_11ArmstrongInARange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_12FiboUptoN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_13BinaryToDecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_14DecimalToBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_19SumOfPrimeInARange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_1Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_20NumReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_21StringReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_1FullPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_2FullInvertedPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_3HalfPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_4HalfInvertedPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_5FullHollowPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_5FullInvertedHollowPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_6HalfHollowPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_7HalfHollowInvertedPyramidWithStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_1FullPyramidWithNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_2FullPyramidWithNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_3FullInvertedPyramidWithNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_24_1DiamondUsingStars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_25_1DiamondUsingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_26FindSecondSmallestNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_2ArOfCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_4CalcHCF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_4_2CalcLCM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_5CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_6PrimeInARange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_7CheckStrongNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_8NumPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_9StringPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_1LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_2PrimeWTwist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_3NumSeriesWTwist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_4GeometricSeriesWTwist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_5NumSeriesWTwist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_6StringsWTwist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q3_1FiboPlusPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q3_2TwoDifferentGPs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_2SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_4WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_1PatternPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_2PrintTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_3AP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_4GP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_5ClosestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_6SumOfDigitsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/FloydsTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/PascalsTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/Q5_11JumpingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/SockMerchant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/SumOfSquaresOfOddNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/InterfaceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/TCS_CollegeQues3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Temp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/SockMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/Q5_11JumpingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/self/Q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/self/StackCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/self/StackCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Temp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +175,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Temp">
+  <component name="RunManager" selected="Application.SockMerchant">
     <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.FloydsTriangle" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +194,7 @@
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_20NumReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q1_20NumReverse" />
+    <configuration name="Q5_11JumpingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.Q5_11JumpingNumbers" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.Q5_9" />
+    <configuration name="SockMerchant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.SockMerchant" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.SockMerchant" />
         <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.Q5_11JumpingNumbers" />
         <item itemvalue="Application.FloydsTriangle" />
-        <item itemvalue="Application.Q5_9" />
-        <item itemvalue="Application.Q1_20NumReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +293,13 @@
       <workItem from="1564298781870" duration="619000" />
       <workItem from="1564304546839" duration="217000" />
       <workItem from="1564304880719" duration="90000" />
-      <workItem from="1564329216538" duration="1764000" />
+      <workItem from="1564329216538" duration="1872000" />
+      <workItem from="1564461657965" duration="3979000" />
+      <workItem from="1564755901960" duration="131000" />
+      <workItem from="1564765782103" duration="1561000" />
+      <workItem from="1564798809287" duration="1691000" />
+      <workItem from="1564976454300" duration="597000" />
+      <workItem from="1564981555679" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -271,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563873627541</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added New Programs">
+      <created>1564334262236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564334262236</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">

@@ -8,23 +8,22 @@ class StackWithArrays {
     private int MAX = 1000;
     private int[] a = new int[MAX];
 
+
     StackWithArrays() {
         top = -1;
     }
 
     boolean isEmpty() {
-        System.out.println();
+//        System.out.println();
         return (top < 0);
     }
 
-    boolean push(int x) {
+    void push(int x) {
         if (top >= (MAX - 1)) {
             System.out.println("StackWithArrays Overflow");
-            return false;
         } else {
             a[++top] = x;
             System.out.println(x + " pushed into stack");
-            return true;
         }
     }
 
@@ -43,8 +42,8 @@ class StackWithArrays {
             System.out.println("StackWithArrays Underflow");
             return 0;
         } else {
-            int x = a[top];
-            return x;
+            final int i = a[top];
+            return i;
         }
     }
 }
@@ -78,6 +77,5 @@ public class StackCreate {
             System.out.println("Continue? (1/0)");
             loop = scanner.nextInt();
         } while (loop == 1);
-
     }
 }
