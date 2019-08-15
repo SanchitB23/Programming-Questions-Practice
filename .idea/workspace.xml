@@ -74,19 +74,17 @@
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/FloydsTriangle.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/PascalsTriangle.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/Q5_11JumpingNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/SockMerchant.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/UnorderedQuestions/SumOfSquaresOfOddNumbers.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/InterfaceExample.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/TCS_CollegeQues3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Temp.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/CodingPractice/practice/Vehicle.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/SockMerchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/Q5_11JumpingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/MyTCS_DigitalQuestion2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/SieveofEratosthenes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/self/Q.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/self/StackCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/self/StackCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Temp.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +134,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -152,6 +151,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice" />
       <recent name="practice.CodingQues" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -175,9 +175,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SockMerchant">
-    <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.FloydsTriangle" />
+  <component name="RunManager" selected="Application.SieveOfEratosthenes">
+    <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.CountingValleys" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -189,25 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.PascalsTriangle" />
+    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.SieveOfEratosthenes" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5_11JumpingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.Q5_11JumpingNumbers" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
+          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,13 +228,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Temp2" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SockMerchant" />
-        <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.SieveOfEratosthenes" />
+        <item itemvalue="Application.Temp2" />
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.Q5_11JumpingNumbers" />
-        <item itemvalue="Application.FloydsTriangle" />
+        <item itemvalue="Application.CountingValleys" />
+        <item itemvalue="Application.SockMerchant" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +299,12 @@
       <workItem from="1564765782103" duration="1561000" />
       <workItem from="1564798809287" duration="1691000" />
       <workItem from="1564976454300" duration="597000" />
-      <workItem from="1564981555679" duration="3568000" />
+      <workItem from="1564981555679" duration="3857000" />
+      <workItem from="1565061099227" duration="5225000" />
+      <workItem from="1565147763239" duration="2335000" />
+      <workItem from="1565610522255" duration="1156000" />
+      <workItem from="1565710318998" duration="5788000" />
+      <workItem from="1565799542353" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -364,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564334262236</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added New Programs">
+      <created>1565022308363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565022308363</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -417,6 +429,22 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TempProject$Main.ic" NAME="Main Coverage Results" MODIFIED="1555844686356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
