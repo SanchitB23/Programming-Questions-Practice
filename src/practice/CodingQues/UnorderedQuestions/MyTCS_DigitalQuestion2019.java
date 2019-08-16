@@ -14,6 +14,7 @@ public class MyTCS_DigitalQuestion2019 {
         Scanner scanner = new Scanner(System.in);
         int firstNum = scanner.nextInt(),
                 secondNum = scanner.nextInt();
+
         boolean[] res = soe(secondNum);
         for (int i = firstNum; i <= secondNum; i++) {
             if (res[i])

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="Added New Programs">
+    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/JumpingOnTheClouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/RepeatedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/MyTCS_DigitalQuestion2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/MyTCS_DigitalQuestion2019.java" afterDir="false" />
     </list>
@@ -66,7 +68,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -94,9 +97,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTCS_DigitalQuestion2019">
-    <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.CountingValleys" />
+  <component name="RunManager" selected="Application.RepeatedString">
+    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.JumpingOnTheClouds" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.SieveOfEratosthenes" />
+    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.RepeatedString" />
       <module name="CodingPractice" />
-      <option name="VM_PARAMETERS" value="-XX:+UnlockCommercialFeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Temp" />
+    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.SieveOfEratosthenes" />
       <module name="CodingPractice" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockCommercialFeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountingValleys" />
       <item itemvalue="Application.SieveOfEratosthenes" />
-      <item itemvalue="Application.Temp" />
       <item itemvalue="Application.Temp2" />
       <item itemvalue="Application.MyTCS_DigitalQuestion2019" />
+      <item itemvalue="Application.JumpingOnTheClouds" />
+      <item itemvalue="Application.RepeatedString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatedString" />
+        <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.MyTCS_DigitalQuestion2019" />
         <item itemvalue="Application.SieveOfEratosthenes" />
         <item itemvalue="Application.Temp2" />
-        <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.CountingValleys" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +235,9 @@
       <workItem from="1565610522255" duration="1156000" />
       <workItem from="1565710318998" duration="5788000" />
       <workItem from="1565799542353" duration="3650000" />
-      <workItem from="1565866151607" duration="4087000" />
+      <workItem from="1565866151607" duration="4697000" />
+      <workItem from="1565931378382" duration="718000" />
+      <workItem from="1565965522341" duration="5971000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -304,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565022308363</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added New Programs">
+      <created>1565879343705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565879343705</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,76 +385,5 @@
     <SUITE FILE_PATH="coverage/TempProject$main.ic" NAME="main Coverage Results" MODIFIED="1562735102703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.company.*</FILTER>
     </SUITE>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
