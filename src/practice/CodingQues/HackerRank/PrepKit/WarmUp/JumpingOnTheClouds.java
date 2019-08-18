@@ -1,4 +1,4 @@
-package practice.CodingQues.HackerRank;
+package practice.CodingQues.HackerRank.PrepKit.WarmUp;
 
 import java.util.Scanner;
 

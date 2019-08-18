@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/JumpingOnTheClouds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Arrays/LeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Arrays/NewYearChaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/BdayCeleb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/LargestProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/Stark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Test2019/ArraySpecialProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Test2019/MinimizeMeetingCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/RepeatedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/MyTCS_DigitalQuestion2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/UnorderedQuestions/MyTCS_DigitalQuestion2019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/JumpingOnTheClouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/RepeatedString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/SockMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/SockMerchant.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,13 +106,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedString">
-    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.JumpingOnTheClouds" />
+  <component name="RunManager" selected="Application.MinimizeMeetingCost">
+    <configuration name="ArraySpecialProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Test2019.ArraySpecialProduct" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Test2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTCS_DigitalQuestion2019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.MyTCS_DigitalQuestion2019" />
+    <configuration name="BdayCeleb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.BdayCeleb" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.RepeatedString" />
+    <configuration name="LargestProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.LargestProduct" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.UnorderedQuestions.SieveOfEratosthenes" />
+    <configuration name="MinimizeMeetingCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Test2019.MinimizeMeetingCost" />
       <module name="CodingPractice" />
-      <option name="VM_PARAMETERS" value="-XX:+UnlockCommercialFeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.UnorderedQuestions.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Test2019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Temp2" />
+    <configuration name="Stark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.Stark" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SieveOfEratosthenes" />
-      <item itemvalue="Application.Temp2" />
-      <item itemvalue="Application.MyTCS_DigitalQuestion2019" />
-      <item itemvalue="Application.JumpingOnTheClouds" />
-      <item itemvalue="Application.RepeatedString" />
+      <item itemvalue="Application.BdayCeleb" />
+      <item itemvalue="Application.Stark" />
+      <item itemvalue="Application.LargestProduct" />
+      <item itemvalue="Application.ArraySpecialProduct" />
+      <item itemvalue="Application.MinimizeMeetingCost" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepeatedString" />
-        <item itemvalue="Application.JumpingOnTheClouds" />
-        <item itemvalue="Application.MyTCS_DigitalQuestion2019" />
-        <item itemvalue="Application.SieveOfEratosthenes" />
-        <item itemvalue="Application.Temp2" />
+        <item itemvalue="Application.MinimizeMeetingCost" />
+        <item itemvalue="Application.ArraySpecialProduct" />
+        <item itemvalue="Application.LargestProduct" />
+        <item itemvalue="Application.Stark" />
+        <item itemvalue="Application.BdayCeleb" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +246,11 @@
       <workItem from="1565866151607" duration="4697000" />
       <workItem from="1565931378382" duration="718000" />
       <workItem from="1565965522341" duration="5971000" />
+      <workItem from="1566027963682" duration="5569000" />
+      <workItem from="1566049946955" duration="2138000" />
+      <workItem from="1566107367176" duration="3486000" />
+      <workItem from="1566118670906" duration="5235000" />
+      <workItem from="1566153762560" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -360,22 +373,6 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingPractice$SieveOfEratosthenes.ic" NAME="SieveOfEratosthenes Coverage Results" MODIFIED="1565866190456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

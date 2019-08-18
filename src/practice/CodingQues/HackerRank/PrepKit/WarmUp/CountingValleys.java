@@ -1,4 +1,4 @@
-package practice.CodingQues.HackerRank;
+package practice.CodingQues.HackerRank.PrepKit.WarmUp;
 /*
 * Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like topography. During his last hike he took exactly _ steps. For every step he took, he noted if it was an uphill, , or a downhill, step. Gary's hikes start and end at sea level and each step up or down represents a
 
@@ -41,14 +41,16 @@ public class CountingValleys {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         String hike = scanner.next();
-        int count = 0, x = 0;
+        int count = 0;
         char[] charArray = hike.toCharArray();
 
+        int temp = 0;
         for (int i = 0; i < num; i++) {
-//            if (x == 0 && ((i == 0) || charArray[i - 1] == 'U')) count++;
-            if (!(i == 0) && (x == 0 /*&& charArray[i - 1] == 'U'*/)) count++;
-            if (charArray[i] == 'D' || charArray[i] == 'd') x--;
-            if (charArray[i] == 'U' || charArray[i] == 'u') x++;
+            if (charArray[i] == 'D')
+                temp--;
+            else temp++;
+            if (temp == 0 && charArray[i] == 'U')
+                count++;
         }
         System.out.println(count);
     }
