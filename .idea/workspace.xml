@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Arrays/LeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Arrays/NewYearChaos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/BdayCeleb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/LargestProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Sample/Stark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Test2019/ArraySpecialProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/Goldman/Test2019/MinimizeMeetingCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/ProblemSolving/BirthdayCakeCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/ProblemSolving/TimeConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/CountingValleys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/JumpingOnTheClouds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/RepeatedString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/SockMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/HackerRank/PrepKit/WarmUp/SockMerchant.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimizeMeetingCost">
+  <component name="RunManager" selected="Application.TimeConverter">
     <configuration name="ArraySpecialProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Test2019.ArraySpecialProduct" />
       <module name="CodingPractice" />
@@ -120,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BdayCeleb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.BdayCeleb" />
+    <configuration name="BirthdayCakeCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.ProblemSolving.BirthdayCakeCandles" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.Stark" />
+    <configuration name="TimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.HackerRank.ProblemSolving.TimeConverter" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.HackerRank.PrepKit.Goldman.Sample.*" />
+          <option name="PATTERN" value="practice.CodingQues.HackerRank.ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BdayCeleb" />
-      <item itemvalue="Application.Stark" />
       <item itemvalue="Application.LargestProduct" />
       <item itemvalue="Application.ArraySpecialProduct" />
       <item itemvalue="Application.MinimizeMeetingCost" />
+      <item itemvalue="Application.BirthdayCakeCandles" />
+      <item itemvalue="Application.TimeConverter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeConverter" />
+        <item itemvalue="Application.BirthdayCakeCandles" />
         <item itemvalue="Application.MinimizeMeetingCost" />
         <item itemvalue="Application.ArraySpecialProduct" />
         <item itemvalue="Application.LargestProduct" />
-        <item itemvalue="Application.Stark" />
-        <item itemvalue="Application.BdayCeleb" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +240,8 @@
       <workItem from="1566049946955" duration="2138000" />
       <workItem from="1566107367176" duration="3486000" />
       <workItem from="1566118670906" duration="5235000" />
-      <workItem from="1566153762560" duration="321000" />
+      <workItem from="1566153762560" duration="649000" />
+      <workItem from="1566579510845" duration="5053000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -329,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565879343705</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added New Programs">
+      <created>1566154312743</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1566154312743</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
