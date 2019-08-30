@@ -1,15 +1,10 @@
 package com;
 
-import java.util.Scanner;
-
 public class temp {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        double x = scanner.nextDouble();
-        double y = scanner.nextDouble();
-
-        System.out.println(x + y);
-
-
+        String s = "1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679";
+        String s2 = "8214808651328230664709384460955058223172535940812848111745028410270193852110555964462294895493038196 ";
+        System.out.println(s.charAt(35));
+        System.out.println(s2.charAt(35));
     }
 }
