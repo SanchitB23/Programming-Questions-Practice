@@ -25,10 +25,14 @@ public class BetweenTwoSets {
         int total = 0;
         int lcmA = lcm(a);
         int gcdB = gcd(b);
-        System.out.println(lcmA);
-        System.out.println(gcdB);
+//        System.out.println(lcmA);
+//        System.out.println(gcdB);
         Collections.sort(b);
-        for (int i = 1; lcmA * i <= gcdB; i++) if (gcdB % lcmA * i == 0) total++;
+        for (int i = 1; lcmA * i <= gcdB; i++)
+            if (gcdB % (lcmA * i) == 0) {
+                System.out.println("s" + lcmA * i);
+                total++;
+            }
 
 /*        for (int i = 1; i * lcmA < b.get(0); i++) {
             boolean flag = true;
@@ -47,7 +51,7 @@ public class BetweenTwoSets {
     private static int gcd(List<Integer> b) {
         int res = b.get(0);
         for (int i = 1; i < b.size(); i++) {
-            res = gcd(res, b.get(i));
+            res = gcd(res, b.get(i));       //loop mei fun->loop
         }
         return res;
     }
@@ -55,7 +59,7 @@ public class BetweenTwoSets {
     private static int lcm(List<Integer> a) {
         int res = a.get(0);
         for (int i = 1; i < a.size(); i++) {
-            res = lcm(res, a.get(i));
+            res = lcm(res, a.get(i));       //loop mei fun(lcm)->fun(gcd)->loop
         }
         return res;
     }

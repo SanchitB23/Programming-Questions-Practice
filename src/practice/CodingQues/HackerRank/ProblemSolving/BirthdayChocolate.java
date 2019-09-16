@@ -18,8 +18,16 @@ public class BirthdayChocolate {
         System.out.println(birthday(numInSquares, date, month));
     }
 
-    private static int birthday(List<Integer> s, int date, int m) {
+    private static int birthday(List<Integer> s, int d, int m) {
         int numOfWays = 0;
+        for (int i = 0; i < s.size(); i++) {
+            int temp = 0;
+            for (int j = 0; j < m && (i + j) < s.size(); j++) {
+                temp += s.get(i + j);
+            }
+            if (temp == d)
+                numOfWays++;
+        }
         return numOfWays;
     }
 }
