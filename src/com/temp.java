@@ -1,8 +1,6 @@
 package com;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Random;
 import java.util.Scanner;
 
 //FIXME Optimize
@@ -11,49 +9,65 @@ public class temp {
 
     public static void main(String[] args) {
 //        hackerEarthQue();
-        something();
+//        codechefA();
+//        codechefB();
+        baseConversion();
     }
 
-    private static void something() {
-        ArrayList<Float> h = new ArrayList<>();
-        char weq = 'A';
-        switch (weq) {
-            case 'A':
-                System.out.println("Congratulations!");
-            case 'B':
-                System.out.println("Good work");
-            case 'C':
-                System.out.println("Average");
-            case 'D':
-                System.out.println("Barely passing");
-            case 'F':
-                System.out.println("Failed");
-        }
-        int x = 3;
-        double y = 9.1;
-        System.out.println(x + y);
-        String greeting = "Java World!";
-        String w = greeting.replace("a", "A");
-        System.out.println(new Random().nextBoolean());
-        String name = "Java";
-        String language = "Programming";
-        String fullName = name + language;
-        boolean test = fullName.equals(name + language);
-        System.out.println(test);
-        char grade = 'E';
-        if (grade == 'A') {
-            System.out.println("Excellent performer");
-        } else if (grade == 'B') {
-            System.out.println("Good Performer");
-        } else if (grade == 'C') {
-            System.out.println("Average Performer");
-        } else {
-            System.out.println("Below Average Performer");
-        }
-        for (; ; ) {
-            System.out.println("Test For");
-        }
+    private static void baseConversion() {
+        Scanner scanner = new Scanner(System.in);
+        int num = scanner.nextInt(), cBase = scanner.nextInt(), resBase = scanner.nextInt();
+        System.out.println(Integer.toString(Integer.parseInt(Integer.toString(num), cBase), resBase));
     }
+
+    private static void codechefB() {
+        Scanner scanner = new Scanner(System.in);
+        int testCases = scanner.nextInt();
+        do {
+
+            int num = scanner.nextInt();
+            System.out.println((codechefBFun1(num) % 1000000007));
+
+            testCases--;
+        } while (testCases != 0);
+    }
+
+    private static long codechefBFun1(int num) {
+        long res = 1;
+        for (int i = 0; i < num; i++) {
+            res *= Math.pow(i + 1, num - i);
+        }
+        return res;
+    }
+
+    private static void codechefA() {
+        Scanner scanner = new Scanner(System.in);
+        int testCases = scanner.nextInt();
+        do {
+
+            int size = scanner.nextInt();
+            int[] arr = new int[size];
+            for (int i = 0; i < size; i++) {
+                arr[i] = scanner.nextInt();
+            }
+            int[] b = new int[size];
+            for (int i = 0; i < size; i++) {
+                int count = 0;
+                for (int j = i; j < size; j++) {
+                    if (arr[i] < arr[j])
+                        count++;
+                }
+                b[i] = count;
+            }
+            for (int x :
+                    b) {
+                System.out.print(x + " ");
+            }
+            System.out.println();
+            testCases--;
+        } while (testCases != 0);
+    }
+
 
     private static void hackerEarthQue() {
         Scanner in = new Scanner(System.in);
