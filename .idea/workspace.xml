@@ -4,100 +4,12 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="Added New Programs">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/AdditionOfTwoMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/AverageInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/DistinctElementsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/LinkedListAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct19_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct19_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practice/DataStructures/GenericTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/CodingAssignmentSolutions/Q7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/BTP1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/NodeLl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/StackCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/self/StackWithArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/BinaryTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/LinkedNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Q1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Q2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/calssmane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/company/tcsWorkshop/factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/CheckArmstrongNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_11ArmstrongInARange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_12FiboUptoN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_13BinaryToDecimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_14DecimalToBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_19SumOfPrimeInARange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_1Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_20NumReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_21StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_1FullPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_2FullInvertedPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_3HalfPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_4HalfInvertedPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_5FullHollowPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_5FullInvertedHollowPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_6HalfHollowPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_22_7HalfHollowInvertedPyramidWithStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_1FullPyramidWithNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_2FullPyramidWithNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_23_3FullInvertedPyramidWithNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_24_1DiamondUsingStars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_25_1DiamondUsingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_26FindSecondSmallestNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_2ArOfCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_4CalcHCF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_4_2CalcLCM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_5CheckPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_6PrimeInARange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_7CheckStrongNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_8NumPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q1_9StringPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_1LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_2PrimeWTwist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_3NumSeriesWTwist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_4GeometricSeriesWTwist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_5NumSeriesWTwist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q2_6StringsWTwist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q3_1FiboPlusPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q3_2TwoDifferentGPs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_2SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_4WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q4_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_1PatternPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_2PrintTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_3AP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_4GP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_5ClosestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_6SumOfDigitsPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingPractice/practice/CodingQues/Q5_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/CodingAssignmentSolutions/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/self/BTP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/BTP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/self/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/self/StackCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/StackCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/BinaryTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/LinkedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/LinkedNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/tcsWorkshop/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcsWorkshop/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/LinkedListAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/DataStructures/LinkedListAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/CodingQues/EliteNTH/Oct18_4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,13 +99,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch">
-    <configuration name="Oct19_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.EliteNTH.Oct19_1" />
+  <component name="RunManager" selected="Application.LinkedListAll">
+    <configuration name="LinkedListAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.DataStructures.LinkedListAll" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.EliteNTH.*" />
+          <option name="PATTERN" value="practice.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oct18_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.EliteNTH.Oct18_2" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oct18_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.EliteNTH.Oct18_4" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.DataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,20 +144,7 @@
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.CodingQues.EliteNTH.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcsWorkshop.main" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tcsWorkshop.*" />
+          <option name="PATTERN" value="practice.DataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,33 +159,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Java Scratch.Scratch" />
-      <item itemvalue="Java Scratch.scratch" />
-      <item itemvalue="Application.Oct19_1" />
-      <item itemvalue="Application.main" />
       <item itemvalue="Application.Oct19_2" />
+      <item itemvalue="Application.Oct18_2" />
+      <item itemvalue="Application.Oct18_4" />
+      <item itemvalue="Application.LinkedListAll" />
+      <item itemvalue="Java Scratch.Scratch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListAll" />
+        <item itemvalue="Application.Oct18_4" />
+        <item itemvalue="Application.Oct18_2" />
         <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.Oct19_2" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Oct19_1" />
-        <item itemvalue="Java Scratch.scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +271,12 @@
       <workItem from="1571258359717" duration="1176000" />
       <workItem from="1571304514821" duration="8464000" />
       <workItem from="1571406306686" duration="8346000" />
-      <workItem from="1571479323802" duration="7327000" />
+      <workItem from="1571479323802" duration="10975000" />
+      <workItem from="1572011930566" duration="4948000" />
+      <workItem from="1572509729130" duration="1765000" />
+      <workItem from="1572545574165" duration="1141000" />
+      <workItem from="1572713990732" duration="71000" />
+      <workItem from="1572764734357" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -480,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570817943805</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added New Programs">
+      <created>1571505886276</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571505886276</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

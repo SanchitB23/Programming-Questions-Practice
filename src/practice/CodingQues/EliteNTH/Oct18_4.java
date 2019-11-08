@@ -24,5 +24,6 @@ public class Oct18_4 {
                     System.out.print(senderString.charAt(i) + " ");
                     i++;
                 }
+
     }
 }

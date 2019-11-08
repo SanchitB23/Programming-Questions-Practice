@@ -1,4 +1,4 @@
-package practice.CodingQues.EliteNTH;
+package practice.DataStructures;
 
 public class LinkedListAll {
     private Node head;
@@ -21,6 +21,13 @@ public class LinkedListAll {
         deleteFromLast(list);
         deleteFromPosition(list, 2);
         printList(list);
+        printListFromLast(list.head);
+    }
+
+    private static void printListFromLast(Node node) {
+        if (node.next != null)
+            printListFromLast(node.next);
+        System.out.print(node.getData() + " ");
     }
 
     private static void insertAtPosition(LinkedListAll list, int data, int pos) {
