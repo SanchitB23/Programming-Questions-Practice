@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LargestSubarrayOfEqual0And1",
+      "request": "launch",
+      "mainClass": "practice.CodingQues.AmazonPrep.TestQues.LargestSubarrayOfEqual0And1"
+    }
+  ]
+}

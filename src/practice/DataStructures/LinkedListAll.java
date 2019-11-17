@@ -32,6 +32,7 @@ public class LinkedListAll {
 
     private static void insertAtPosition(LinkedListAll list, int data, int pos) {
         Node node = list.head;
+        //fixme incompletee
     }
 
     private static void deleteFromPosition(LinkedListAll list, int pos) {

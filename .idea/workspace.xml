@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/AmazonPrep/OneNoteQues/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/AmazonPrep/OneNoteQues/Q2.java" afterDir="false" />
+    <list default="true" id="6cc4e884-a33e-49fc-ba6b-48e5e2ece971" name="Default Changelist" comment="Added New Programs">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/AmazonPrep/TestQues/LargestSubarrayOfEqual0And1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CodingQues/AmazonPrep/TestQues/LongestIncreasingSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/DataStructures/LinkedListAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/DataStructures/LinkedListAll.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +45,13 @@
     <setting file="file://$PROJECT_DIR$/src/tcsWorkshop/Q1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1OdPWjmf7c9xC0f8kfQJOUOhABD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -97,13 +100,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseInSize">
-    <configuration name="LinkedListAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.DataStructures.LinkedListAll" />
+  <component name="RunManager" selected="Application.LargestSubarrayOfEqual0And1">
+    <configuration name="LargestSubarrayOfEqual0And1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.AmazonPrep.TestQues.LargestSubarrayOfEqual0And1" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.DataStructures.*" />
+          <option name="PATTERN" value="practice.CodingQues.AmazonPrep.TestQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oct18_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.EliteNTH.Oct18_2" />
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.AmazonPrep.TestQues.LongestIncreasingSubsequence" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.DataStructures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Oct18_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CodingQues.EliteNTH.Oct18_4" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.DataStructures.*" />
+          <option name="PATTERN" value="practice.CodingQues.AmazonPrep.TestQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,20 +153,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LIS" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LIS" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Oct18_2" />
-      <item itemvalue="Application.Oct18_4" />
-      <item itemvalue="Application.LinkedListAll" />
       <item itemvalue="Application.Q1" />
       <item itemvalue="Application.ReverseInSize" />
+      <item itemvalue="Application.LongestIncreasingSubsequence" />
+      <item itemvalue="Java Scratch.LIS" />
+      <item itemvalue="Application.LargestSubarrayOfEqual0And1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestSubarrayOfEqual0And1" />
+        <item itemvalue="Java Scratch.LIS" />
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
         <item itemvalue="Application.ReverseInSize" />
         <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.LinkedListAll" />
-        <item itemvalue="Application.Oct18_4" />
-        <item itemvalue="Application.Oct18_2" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +280,8 @@
       <workItem from="1572764734357" duration="611000" />
       <workItem from="1573202861503" duration="2291000" />
       <workItem from="1573398843570" duration="1940000" />
+      <workItem from="1573973271971" duration="3850000" />
+      <workItem from="1573990074540" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1563629866083</created>
@@ -452,6 +451,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init Commit" />
     <MESSAGE value="File Numbering Corrected" />
     <MESSAGE value="New Programs Added" />
@@ -484,6 +484,26 @@
           <url>file://$PROJECT_DIR$/src/practice/CodingQues/HackerRank/ProblemSolving/DrawingBook.java</url>
           <line>40</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
