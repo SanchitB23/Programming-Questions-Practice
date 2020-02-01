@@ -16,6 +16,7 @@ public class Q1_23_3FullInvertedPyramidWithNumbers {
                 System.out.print(num + " ");
             }
             System.out.println();
+
             num++;
         }
     }
