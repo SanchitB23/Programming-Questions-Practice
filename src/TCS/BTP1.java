@@ -1,4 +1,4 @@
-package tcsWorkshop;
+package TCS;
 
 public class BTP1 {
     private Node root;

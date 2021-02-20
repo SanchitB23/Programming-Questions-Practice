@@ -1,12 +1,12 @@
-package tcsWorkshop;
+package TCS;
 
 
 import java.util.Scanner;
 
 class StackWithArrays {
     private int top;
-    private int MAX = 1000;
-    private int[] a = new int[MAX];
+    private final int MAX = 1000;
+    private final int[] a = new int[MAX];
 
 
     StackWithArrays() {

@@ -1,4 +1,4 @@
-package practice.CodingQues.TCS_Xplore_Test_28thDec;
+package TCS.TCS_Xplore_Test_28thDec;
 // From Input String print the Number of characters and number of spaces
 
 import java.util.Scanner;

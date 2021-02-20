@@ -1,4 +1,4 @@
-package practice.CodingQues.TCS_Xplore_Test_28thDec;
+package TCS.TCS_Xplore_Test_28thDec;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -86,10 +86,10 @@ public class Q2 {
 }
 
 class Movie {
-    private String mName;
-    private String pCompany;
-    private String genre;
-    private long budget;
+    private final String mName;
+    private final String pCompany;
+    private final String genre;
+    private final long budget;
 
     public Movie(String mName, String pCompany, String genre, long budget) {
         this.mName = mName;

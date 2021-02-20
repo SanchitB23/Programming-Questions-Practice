@@ -1,4 +1,4 @@
-package tcsWorkshop;
+package TCS;
 /*
 
 public class main {

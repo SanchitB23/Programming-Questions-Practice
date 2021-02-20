@@ -15,7 +15,7 @@
 ////        }
 //    }
 //}
-package tcsWorkshop;
+package TCS;
 
 class Q2 {
 

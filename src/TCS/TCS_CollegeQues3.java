@@ -18,7 +18,7 @@ Fourth iteration : Compare every element after fourth element with fourth elemen
 */
 
 
-package practice;
+package TCS;
 
 public class TCS_CollegeQues3 {
 }

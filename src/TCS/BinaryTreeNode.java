@@ -1,4 +1,4 @@
-package tcsWorkshop;
+package TCS;
 
 class BinaryTreeNode<T> {
     private T data;

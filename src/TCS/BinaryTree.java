@@ -1,4 +1,4 @@
-package tcsWorkshop;
+package TCS;
 
 public class BinaryTree {
     private static int size = 0;

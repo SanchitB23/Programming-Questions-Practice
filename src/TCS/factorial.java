@@ -1,9 +1,9 @@
-package tcsWorkshop;
+package TCS;
 
 public class factorial {
 
     private static int sum = 1;
-    private static int[] store = new int[100];//nt[100];
+    private static final int[] store = new int[100];//nt[100];
 
     private static int factDynamic(int n) {
         if (n > -1) {

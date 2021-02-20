@@ -1,4 +1,4 @@
-package tcsWorkshop;
+package TCS;
 
 import java.util.Scanner;
 
