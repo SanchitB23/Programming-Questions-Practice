@@ -1,4 +1,4 @@
-package practice.LeetCode;
+package practice.CodingQues.LeetCode;
 
 import java.util.Arrays;
 import java.util.Scanner;
